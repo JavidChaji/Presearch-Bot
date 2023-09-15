@@ -33,7 +33,7 @@ Search Automation
 <!-- Stars -->
 [stars-shield]: https://img.shields.io/github/stars/javidchaji/Presearch-Bot.svg?style=for-the-badge
 
-[stars-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/stargazers
+[stars-url]: https://github.com/javidchaji/Presearch-Bot/stargazers
 
 
 <!-- Issues -->
