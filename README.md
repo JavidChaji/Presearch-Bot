@@ -27,7 +27,7 @@ Search Automation
 <!-- Forks -->
 [forks-shield]: https://img.shields.io/github/forks/javidchaji/Presearch-Bot.svg?style=for-the-badge
 
-[forks-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/network/members
+[forks-url]: https://github.com/javidchaji/Presearch-Bot/network/members
 
 
 <!-- Stars -->
