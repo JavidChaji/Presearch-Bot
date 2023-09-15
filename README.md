@@ -39,7 +39,7 @@ Search Automation
 <!-- Issues -->
 [issues-shield]: https://img.shields.io/github/issues/javidchaji/Presearch-Bot.svg?style=for-the-badge
 
-[issues-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/issues
+[issues-url]: https://github.com/javidchaji/Presearch-Bot/issues
 
 
 <!-- License -->
