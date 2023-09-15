@@ -25,7 +25,7 @@ Search Automation
 [contributors-url]: https://github.com/javidchaji/Presearch-Bot/graphs/contributors
 
 <!-- Forks -->
-[forks-shield]: https://img.shields.io/github/forks/javidchaji/FUM-Web-Programming-Hotel-Search-UI.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/javidchaji/Presearch-Bot.svg?style=for-the-badge
 
 [forks-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/network/members
 
