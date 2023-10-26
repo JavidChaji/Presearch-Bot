@@ -48,14 +48,9 @@ Search Automation
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![Python][Python-Shield]][Python-url]
+* [![Selenium][Selenium-Shield]][Selenium-url]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -160,3 +155,16 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 
 [javid-linkedin-url]: https://linkedin.com/in/javidchaji
+
+
+[Python-Shield]: https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
+
+[Python-url]: https://www.python.org/
+
+
+[Selenium-Shield]: https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white
+
+[Selenium-url]: https://www.selenium.dev/
+
+
+
